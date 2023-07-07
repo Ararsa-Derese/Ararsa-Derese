@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ararsa Derese</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21uN3RoOXFvZmc5eHhlZ2sxdWZtaGQ4YnZ6NnR1YmRsOG1rY3R4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ararsa-derese&label=Profile%20views&color=0e75b6&style=flat" alt="ararsa-derese" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ararsa_derese" target="blank"><img src="https://img.shields.io/twitter/follow/ararsa_derese?logo=twitter&style=for-the-badge" alt="ararsa_derese" /></a> </p>
